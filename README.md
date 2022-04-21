@@ -29,8 +29,8 @@ Requires 3.3 output and idealy 3.3V input. 5V compatibility is recommended, howe
 | Checked |             Part            | Quantity |                   Description                  | Link |
 |---------|-----------------------------|:--------:|------------------------------------------------|:----:|
 |         | IR Sensor                   | 3        | Photo Transistor / IR LED Pair                 | [Here](https://www.robotics.org.za/ITR9909?tracking=vUaBcGVoiTrcysntIvEoMY8EaQc3nlEaAzJSIy7qZ7d9tucVpG1GYWE2hHAKGVYS) |
-|         | 100K $\Omega$ Potentiometer | 3        | For adjusting the gain of the photo transistor | [Here](https://www.robotics.org.za/B104-100K?tracking=vUaBcGVoiTrcysntIvEoMY8EaQc3nlEaAzJSIy7qZ7d9tucVpG1GYWE2hHAKGVYS) |
-|         | 220 $\Omega$ Resistor       | 3        | Current limiting resistor for the IR LED       | [Here](https://www.robotics.org.za/RES-220E-50?tracking=vUaBcGVoiTrcysntIvEoMY8EaQc3nlEaAzJSIy7qZ7d9tucVpG1GYWE2hHAKGVYS) |
+|         | 100k &Omega; Potentiometer | 3        | For adjusting the gain of the photo transistor | [Here](https://www.robotics.org.za/B104-100K?tracking=vUaBcGVoiTrcysntIvEoMY8EaQc3nlEaAzJSIy7qZ7d9tucVpG1GYWE2hHAKGVYS) |
+|         | 220 &Omega; Resistor       | 3        | Current limiting resistor for the IR LED       | [Here](https://www.robotics.org.za/RES-220E-50?tracking=vUaBcGVoiTrcysntIvEoMY8EaQc3nlEaAzJSIy7qZ7d9tucVpG1GYWE2hHAKGVYS) |
 |         | N-Channel MOSFET            | 1        | To turn the LEDs on and off                    | [Here](https://www.robotics.org.za/BS170-TO-92?tracking=vUaBcGVoiTrcysntIvEoMY8EaQc3nlEaAzJSIy7qZ7d9tucVpG1GYWE2hHAKGVYS) |
 |         | Protoboard* / Veroboard     | 1        | to solder your components to                   | [Here](https://www.robotics.org.za/PROTO5070?tracking=vUaBcGVoiTrcysntIvEoMY8EaQc3nlEaAzJSIy7qZ7d9tucVpG1GYWE2hHAKGVYS) |
 
